@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{612279F0-9455-4AC5-BAF7-D734F0DB30EB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include=".Designer.cs" />
+    <Compile Include="anteMemorama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anteMemorama.Designer.cs">
+      <DependentUpon>anteMemorama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aprovechamiento1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aprovechamiento1.Designer.cs">
+      <DependentUpon>Aprovechamiento1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aprovechamiento10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aprovechamiento10.Designer.cs">
+      <DependentUpon>aprovechamiento10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aprovechamiento2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aprovechamiento2.Designer.cs">
+      <DependentUpon>Aprovechamiento2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aprovechamiento3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aprovechamiento3.Designer.cs">
+      <DependentUpon>Aprovechamiento3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aprovechamiento4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aprovechamiento4.Designer.cs">
+      <DependentUpon>Aprovechamiento4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aprovechamiento5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aprovechamiento5.Designer.cs">
+      <DependentUpon>Aprovechamiento5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aprovechamiento6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aprovechamiento6.Designer.cs">
+      <DependentUpon>Aprovechamiento6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aprovechamiento7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aprovechamiento7.Designer.cs">
+      <DependentUpon>Aprovechamiento7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aprovechamiento8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aprovechamiento8.Designer.cs">
+      <DependentUpon>Aprovechamiento8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aprovechamiento9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aprovechamiento9.Designer.cs">
+      <DependentUpon>Aprovechamiento9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bibliografias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bibliografias.Designer.cs">
+      <DependentUpon>bibliografias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CCrianza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CCrianza.Designer.cs">
+      <DependentUpon>CCrianza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrCria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrCria.Designer.cs">
+      <DependentUpon>CrCria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrGestion1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrGestion1.Designer.cs">
+      <DependentUpon>CrGestion1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrRazas1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrRazas1.Designer.cs">
+      <DependentUpon>CrRazas1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrReCria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrReCria.Designer.cs">
+      <DependentUpon>CrReCria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrReCria1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrReCria1.Designer.cs">
+      <DependentUpon>CrReCria1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosUsuario.cs" />
+    <Compile Include="EtapasCuy1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EtapasCuy1.Designer.cs">
+      <DependentUpon>EtapasCuy1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gastronomia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gastronomia.Designer.cs">
+      <DependentUpon>Gastronomia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gestacionytiposdecuy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gestacionytiposdecuy.Designer.cs">
+      <DependentUpon>gestacionytiposdecuy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionClientesProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionClientesProduccion.Designer.cs">
+      <DependentUpon>GestionClientesProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionCuyProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionCuyProduccion.Designer.cs">
+      <DependentUpon>GestionCuyProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionProduccion.Designer.cs">
+      <DependentUpon>GestionProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InteGasNiveles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InteGasNiveles.Designer.cs">
+      <DependentUpon>InteGasNiveles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InteGastronomia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InteGastronomia.Designer.cs">
+      <DependentUpon>InteGastronomia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InteProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InteProduccion.Designer.cs">
+      <DependentUpon>InteProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InteProduccion2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InteProduccion2.Designer.cs">
+      <DependentUpon>InteProduccion2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InteSanidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InteSanidad.Designer.cs">
+      <DependentUpon>InteSanidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InteSanidad1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InteSanidad1.Designer.cs">
+      <DependentUpon>InteSanidad1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InteCrianza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InteCrianza.Designer.cs">
+      <DependentUpon>InteCrianza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NombreUsuario.cs" />
+    <Compile Include="Produccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produccion.Designer.cs">
+      <DependentUpon>Produccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produccion0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produccion0.Designer.cs">
+      <DependentUpon>Produccion0.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReceEspeciales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceEspeciales.Designer.cs">
+      <DependentUpon>ReceEspeciales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReceFritas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceFritas.Designer.cs">
+      <DependentUpon>ReceFritas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReceGastronomia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceGastronomia.Designer.cs">
+      <DependentUpon>ReceGastronomia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReceGuisadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceGuisadas.Designer.cs">
+      <DependentUpon>ReceGuisadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReceHorno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceHorno.Designer.cs">
+      <DependentUpon>ReceHorno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RecetasApartado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecetasApartado.Designer.cs">
+      <DependentUpon>RecetasApartado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="recetasREceGastronomia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="recetasREceGastronomia.Designer.cs">
+      <DependentUpon>recetasREceGastronomia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro.Designer.cs">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroVentaProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroVentaProduccion.Designer.cs">
+      <DependentUpon>RegistroVentaProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportesVentasProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportesVentasProduccion.Designer.cs">
+      <DependentUpon>ReportesVentasProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SabiasQue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SabiasQue.Designer.cs">
+      <DependentUpon>SabiasQue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sandad0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sandad0.Designer.cs">
+      <DependentUpon>Sandad0.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sanidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sanidad.Designer.cs">
+      <DependentUpon>Sanidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SanidadDificultad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanidadDificultad.Designer.cs">
+      <DependentUpon>SanidadDificultad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SanidadInteDificil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanidadInteDificil.Designer.cs">
+      <DependentUpon>SanidadInteDificil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SanidadInteFacil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanidadInteFacil.Designer.cs">
+      <DependentUpon>SanidadInteFacil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SanidadInteNormal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanidadInteNormal.Designer.cs">
+      <DependentUpon>SanidadInteNormal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SanidadPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanidadPrincipal.Designer.cs">
+      <DependentUpon>SanidadPrincipal.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="anteMemorama.resx">
+      <DependentUpon>anteMemorama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aprovechamiento1.resx">
+      <DependentUpon>Aprovechamiento1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aprovechamiento10.resx">
+      <DependentUpon>aprovechamiento10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aprovechamiento2.resx">
+      <DependentUpon>Aprovechamiento2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aprovechamiento3.resx">
+      <DependentUpon>Aprovechamiento3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aprovechamiento4.resx">
+      <DependentUpon>Aprovechamiento4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aprovechamiento5.resx">
+      <DependentUpon>Aprovechamiento5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aprovechamiento6.resx">
+      <DependentUpon>Aprovechamiento6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aprovechamiento7.resx">
+      <DependentUpon>Aprovechamiento7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aprovechamiento8.resx">
+      <DependentUpon>Aprovechamiento8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aprovechamiento9.resx">
+      <DependentUpon>Aprovechamiento9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bibliografias.resx">
+      <DependentUpon>bibliografias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CCrianza.resx">
+      <DependentUpon>CCrianza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrCria.resx">
+      <DependentUpon>CrCria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrGestion1.resx">
+      <DependentUpon>CrGestion1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrRazas1.resx">
+      <DependentUpon>CrRazas1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrReCria.resx">
+      <DependentUpon>CrReCria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrReCria1.resx">
+      <DependentUpon>CrReCria1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EtapasCuy1.resx">
+      <DependentUpon>EtapasCuy1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gastronomia.resx">
+      <DependentUpon>Gastronomia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gestacionytiposdecuy.resx">
+      <DependentUpon>gestacionytiposdecuy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionClientesProduccion.resx">
+      <DependentUpon>GestionClientesProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionCuyProduccion.resx">
+      <DependentUpon>GestionCuyProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionProduccion.resx">
+      <DependentUpon>GestionProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InteGasNiveles.resx">
+      <DependentUpon>InteGasNiveles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InteGastronomia.resx">
+      <DependentUpon>InteGastronomia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InteProduccion.resx">
+      <DependentUpon>InteProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InteProduccion2.resx">
+      <DependentUpon>InteProduccion2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InteSanidad.resx">
+      <DependentUpon>InteSanidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InteSanidad1.resx">
+      <DependentUpon>InteSanidad1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InteCrianza.resx">
+      <DependentUpon>InteCrianza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produccion.resx">
+      <DependentUpon>Produccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produccion0.resx">
+      <DependentUpon>Produccion0.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReceEspeciales.resx">
+      <DependentUpon>ReceEspeciales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReceFritas.resx">
+      <DependentUpon>ReceFritas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReceGastronomia.resx">
+      <DependentUpon>ReceGastronomia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReceGuisadas.resx">
+      <DependentUpon>ReceGuisadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReceHorno.resx">
+      <DependentUpon>ReceHorno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecetasApartado.resx">
+      <DependentUpon>RecetasApartado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="recetasREceGastronomia.resx">
+      <DependentUpon>recetasREceGastronomia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro.resx">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroVentaProduccion.resx">
+      <DependentUpon>RegistroVentaProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportesVentasProduccion.resx">
+      <DependentUpon>ReportesVentasProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SabiasQue.resx">
+      <DependentUpon>SabiasQue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sandad0.resx">
+      <DependentUpon>Sandad0.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sanidad.resx">
+      <DependentUpon>Sanidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanidadDificultad.resx">
+      <DependentUpon>SanidadDificultad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanidadInteDificil.resx">
+      <DependentUpon>SanidadInteDificil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanidadInteFacil.resx">
+      <DependentUpon>SanidadInteFacil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanidadInteNormal.resx">
+      <DependentUpon>SanidadInteNormal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanidadPrincipal.resx">
+      <DependentUpon>SanidadPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\produccion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gestion-produccion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gestion-produccion-cuyes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l0gin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registro1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registro2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gastronomía.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gastronomia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recetarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carpeta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gestion cuy-produccion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gestion clientes-produccion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registrar venta-produccion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\funcionalidad-sanidad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-produccion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bienvenida-produccion-inte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gastronomía %2815%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gastronomía %2816%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gastronomía %2817%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gastronomía %2818%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aprovechamiento productivo del cuy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seleccionamos un cúter para su sacrificio y desuello %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seleccionamos_un_cúter_para_su_sacrificio_y_desuello__3_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seleccionamos un cúter para su sacrificio y desuello %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seleccionamos un cúter para su sacrificio y desuello %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seleccionamos un cúter para su sacrificio y desuello %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seleccionamos un cúter para su sacrificio y desuello %288%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seleccionamos un cúter para su sacrificio y desuello %289%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seleccionamos un cúter para su sacrificio y desuello %2810%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seleccionamos un cúter para su sacrificio y desuello %2811%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seleccionamos un cúter para su sacrificio y desuello %2813%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seleccionamos un cúter para su sacrificio y desuello %2815%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cartera.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forro de libro.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\llavero.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monederos.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tarjetero.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prosCarte.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prosLLa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prosMo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prosForro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prosTar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\festiva.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\especial.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\papa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hornado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recetario.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crecimiento.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\etapasCuy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gestiCuy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\criCuy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RecriaCuy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GEScuy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\razasCuy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Instrucciones-Gas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\referencias.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RecetApartado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btt sabiasque.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondoReceta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excelente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\neutro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enojado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Memom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ventasRe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acompañado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aji.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\festivo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salsa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estofad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guisada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crujiente.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apanado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frito.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hierbasCuy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horno.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuyPensativo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nube1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza %282%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ojoxd1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza %288%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza %289%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza %2810%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza %2811%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion, Crianza %2813%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatGPT Image 19 feb 2026, 01_45_36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\40.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gastronomía.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gastronomía %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gastronomía %282%29.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

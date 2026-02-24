@@ -1,0 +1,1103 @@
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crianza.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crianza.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crianza.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crianza.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crianza.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+C:\Users\kevin\OneDrive\Escritorio\PROYECTO-CUY (2)\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\PROYECTO-CUY\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crianza.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+C:\Users\arana\Downloads\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrCria.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrGestacion.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crianza.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrRazas.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrReCria.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.EtapasCuy.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.Form6.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.GestacionCuy.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrCria.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrGestacion.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crianza.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrRazas.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrReCria.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.EtapasCuy.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.Form6.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.GestacionCuy.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrCria.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrReCria.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.Form6.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CCrianza.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EtapasCuy1.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrReCria1.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrGestion1.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrRazas1.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gestacionytiposdecuy.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CCrianza.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrCria.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrGestion1.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrRazas1.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrReCria.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrReCria1.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EtapasCuy1.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.Form6.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gestacionytiposdecuy.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\OneDrive\Escritorio\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bibliografias.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bibliografias.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CCrianza.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrCria.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrGestion1.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrRazas1.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrReCria.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrReCria1.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EtapasCuy1.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.Form6.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gestacionytiposdecuy.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceEspeciales.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceFritas.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGuisadas.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceHorno.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\proyectListo (3)\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bibliografias.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CCrianza.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrCria.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrGestion1.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrRazas1.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrReCria.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrReCria1.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EtapasCuy1.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.Form6.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gestacionytiposdecuy.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceEspeciales.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceFritas.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGuisadas.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceHorno.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bibliografias.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CCrianza.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrCria.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrGestion1.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrRazas1.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrReCria.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrReCria1.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EtapasCuy1.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.Form6.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gestacionytiposdecuy.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceEspeciales.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceFritas.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGuisadas.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceHorno.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bibliografias.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CCrianza.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrCria.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrGestion1.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrRazas1.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrReCria.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrReCria1.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EtapasCuy1.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.Form6.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gestacionytiposdecuy.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceEspeciales.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceFritas.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGuisadas.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceHorno.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Downloads\proyectoTerminadoCUY - copia\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bibliografias.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CCrianza.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrCria.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrGestion1.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrRazas1.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrReCria.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrReCria1.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EtapasCuy1.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.Form6.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gestacionytiposdecuy.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceEspeciales.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceFritas.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGuisadas.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceHorno.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Downloads\ProyectoFin\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bibliografias.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CCrianza.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrCria.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrGestion1.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrRazas1.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrReCria.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrReCria1.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EtapasCuy1.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.Form6.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gestacionytiposdecuy.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceEspeciales.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceFritas.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGuisadas.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceHorno.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\arana\Downloads\ProyectoFin - copiaOrg\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGasNiveles.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bibliografias.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CCrianza.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrCria.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrGestion1.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrRazas1.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrReCria.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrReCria1.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EtapasCuy1.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.Form6.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gestacionytiposdecuy.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGasNiveles.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceEspeciales.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceFritas.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGuisadas.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceHorno.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sandad0.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadDificultad.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadInteDificil.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadInteFacil.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadInteNormal.resources
+D:\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadPrincipal.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bibliografias.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CCrianza.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrCria.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrGestion1.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrRazas1.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrReCria.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrReCria1.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EtapasCuy1.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.Form6.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gestacionytiposdecuy.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGasNiveles.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceEspeciales.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceFritas.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGuisadas.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceHorno.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sandad0.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadDificultad.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadInteDificil.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadInteFacil.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadInteNormal.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadPrincipal.resources
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Downloads\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.anteMemorama.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.anteMemorama.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bibliografias.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CCrianza.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrCria.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrGestion1.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrRazas1.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.CrReCria.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrReCria1.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EtapasCuy1.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.Form6.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gestacionytiposdecuy.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGasNiveles.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceEspeciales.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceFritas.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGuisadas.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceHorno.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sandad0.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadDificultad.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadInteDificil.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadInteFacil.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadInteNormal.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadPrincipal.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\ProyectoFinAMEN\ProyectoFin - copiaOrg\proyectListo (3)\proyectListo\proyectListo\proyect\PROYECTO-CUY (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.anteMemorama.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento1.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aprovechamiento10.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento2.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento3.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento4.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento5.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento6.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento7.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento8.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aprovechamiento9.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bibliografias.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CCrianza.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\cuy.CrCria.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrGestion1.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrRazas1.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\cuy.CrReCria.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrReCria1.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EtapasCuy1.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\cuy.Form6.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gastronomia.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gestacionytiposdecuy.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionClientesProduccion.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionCuyProduccion.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GestionProduccion.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGasNiveles.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteGastronomia.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteProduccion2.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteSanidad1.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\cuy.InteCrianza.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Produccion0.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceEspeciales.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceFritas.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGastronomia.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceGuisadas.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceHorno.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RecetasApartado.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recetasREceGastronomia.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistroVentaProduccion.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportesVentasProduccion.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\cuy.SabiasQue.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sandad0.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sanidad.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadDificultad.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadInteDificil.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadInteFacil.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadInteNormal.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanidadPrincipal.resources
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arana\Downloads\ProyectoFinAMEN (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

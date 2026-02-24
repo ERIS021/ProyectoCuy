@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProyectoCuy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{612279F0-9455-4AC5-BAF7-D734F0DB30EB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\proyectocuy\\windowsformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{612279F0-9455-4AC5-BAF7-D734F0DB30EB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\ProyectoCuy\\WindowsFormsApp1\\Menu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Menu.cs",
+              "ToolTip": "C:\\ProyectoCuy\\WindowsFormsApp1\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T23:05:21.174Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
